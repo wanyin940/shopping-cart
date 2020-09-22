@@ -9,7 +9,7 @@
       test() {
         // eslint-disable-next-line no-debugger
         debugger;
-        console.log('test')
+        console.log('test');
       }
     },
   }
